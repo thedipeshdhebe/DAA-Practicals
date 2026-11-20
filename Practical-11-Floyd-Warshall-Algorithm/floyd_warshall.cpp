@@ -64,8 +64,8 @@ int main() {
         if (dist[i][i] < 0) {
             cout << "\nThe graph contains a negative weight cycle." << endl;
             cout << "\n----------------------------------------\n";
-            cout << "Name           : Shlok Uprit\n";
-            cout << "Enrollment No. : 92460118211\n";
+            cout << "Name           : Dipesh Ramji Dhebe\n";
+            cout << "Enrollment No. : 92460118842\n";
             return 0;
         }
     }
@@ -74,8 +74,8 @@ int main() {
     printMatrix(dist);
 
     cout << "\n----------------------------------------\n";
-    cout << "Name           : Shlok Uprit\n";
-    cout << "Enrollment No. : 92460118211\n";
+    cout << "Name           : Dipesh Ramji Dhebe\n";
+    cout << "Enrollment No. : 92460118842\n";
 
     return 0;
 }
